@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Alrick/Documents/Unreal Projects/Project-S/Project_S/Content/Maps/Map_1.umap",
+				"C:/Users/Alrick/Documents/Unreal Projects/Project-S/Project_S/Content/Blueprints/BP_Player2.uasset",
 				"C:/Users/anath/OneDrive/Bureau/game/Project S/Project-S/Project_S/Content/SunnyLandAssets/spritesheets/player-hurt.uasset",
 				"C:/Users/anath/OneDrive/Bureau/game/Project S/Project-S/Project_S/Content/SunnyLandAssets/spritesheets/player-idle.uasset",
 				"C:/Users/anath/OneDrive/Bureau/game/Project S/Project-S/Project_S/Content/SunnyLandAssets/spritesheets/player-jump.uasset",
