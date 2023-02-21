@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/Maps/Map_1.umap",
+				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/Menu/HUD_Menu.uasset",
+				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/Blueprints/BP_Player2.uasset",
+				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/Blueprints/TpZone.uasset",
 				"C:/Users/Alrick/Documents/Unreal Projects/Project-S/Project_S/Content/Maps/Map_1.umap",
 				"C:/Users/Alrick/Documents/Unreal Projects/Project-S/Project_S/Content/Blueprints/BP_Player2.uasset",
 				"C:/Users/Alrick/Documents/Unreal Projects/Project-S/Project_S/Content/Menu/MapMenu.umap",
@@ -404,8 +408,7 @@
 				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/StarterContent/Audio/Explosion01.uasset",
 				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/StarterContent/Audio/Collapse02.uasset",
 				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/StarterContent/Audio/Steam01.uasset",
-				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/StarterContent/Audio/Collapse01.uasset",
-				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/Maps/Map_1.umap"
+				"C:/Users/anath/Desktop/game/Project-S/Project_S/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
 	]
